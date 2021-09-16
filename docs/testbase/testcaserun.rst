@@ -26,7 +26,7 @@
    
    
    if __name__ == '__main__':
-       HelloTest().debug_run()
+       RepeatTest().debug_run()
        
 这个用例和一般用例的区别是：
 
